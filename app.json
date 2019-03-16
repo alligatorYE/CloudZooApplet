@@ -1,0 +1,19 @@
+{
+  "pages": [         
+    "pages/index/index",
+    "pages/videoinfo/videoinfo",      
+    "pages/userLogin/login",
+    "pages/report/report",
+    "pages/mine/mine",
+    "pages/userRegist/regist",
+    "pages/chooseBgm/chooseBgm",
+    "pages/searchVideo/searchVideo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "动物云",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true
+}
